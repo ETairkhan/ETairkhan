@@ -90,3 +90,21 @@ nav{
     list-style-type: none;
     padding: 0 0 10px 0 ;
 }
+@media only screen and (max-width:600px){
+    body{
+        background-color: blue;
+        
+    }
+}
+.under-development{
+    position:fixed;
+    bottom: 0px;
+    left:0px;
+    height:3.3rem;
+    font-size:3.2rem;
+    width:100%;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    z-index:1;
+}
