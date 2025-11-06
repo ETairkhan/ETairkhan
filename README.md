@@ -1,9 +1,5 @@
-## Hi there 👋
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h1 align="center">Hi 👋, I'm Tairkhan</h1>
+<h1 align="center">Hi 👋, I'm Tairkhan</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 
 - 🔭 I’m currently working on [clothes_shop](https://github.com/ETairkhan/clothes_shop)
