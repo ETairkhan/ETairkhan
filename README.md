@@ -3,9 +3,6 @@
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etairkhan" alt="etairkhan" /></a> </p>
-
-
 - 🌱 I’m know languages **Python, Java in online courses and Golang in Alem School**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ETairkhan](https://github.com/ETairkhan)
