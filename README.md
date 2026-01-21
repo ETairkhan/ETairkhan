@@ -2,13 +2,11 @@
 <h2 align="center">My server and domen: https://tairkhan.ru/ </h2> 
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=etairkhan&label=Profile%20views&color=0e75b6&style=flat" alt="etairkhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etairkhan" alt="etairkhan" /></a> </p>
 
-- 🔭 I’m currently working on [clothes_shop](https://github.com/ETairkhan/clothes_shop)
 
-- 🌱 I’m currently learning **Python in online courses and Golang in Alem School**
+- 🌱 I’m know languages **Python, Java in online courses and Golang in Alem School**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ETairkhan](https://github.com/ETairkhan)
 
